@@ -1,0 +1,16 @@
+product_id,product_name,category,price
+1,Laptop_1,Electronics,46253
+2,Keyboard_2,Accessories,18710
+3,Phone_3,Electronics,22559
+4,Laptop_4,Electronics,25398
+5,Laptop_5,Accessories,23041
+6,Mouse_6,Accessories,3347
+7,Keyboard_7,Electronics,25307
+8,Laptop_8,Accessories,41698
+9,Mouse_9,Accessories,38337
+10,Phone_10,Electronics,3503
+11,Phone_11,Accessories,5729
+12,Phone_12,Electronics,25411
+13,Monitor_13,Accessories,42160
+14,Monitor_14,Electronics,24760
+15,Monitor_15,Electronics,44420

@@ -1,0 +1,15 @@
+Show all customers
+Show top 5 expensive products
+Show latest 10 orders
+Which product was sold the most?
+Show total sales amount
+Show total sales by product
+Show customer names and products purchased
+Which customer spent the most money?
+Show customers with their total purchase amount
+Show the customer who purchased the highest quantity of products and list the products purchased
+Which payment method generated the highest sales?
+Show sales by category
+Show best customer
+Which city generated the highest revenue?
+Compare product sales across categories
